@@ -1,6 +1,6 @@
 # React Playground
 
-A project for practicing component development with RactJS. 
+A project for practicing component development with ReactJS library. 
 
 ### Simple data fetch from Github API to display my public repos.
 Showcases the use of:
